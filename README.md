@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreyash Talole
 - 👀 I’m interested in Web - Development.
-- 🌱 I’m currently learning Web Development with MERN stack
+- 🌱 I’m learning Backend Development with Node.Js
 - 📫 How to reach me 
       1)shreyastalole2001@gmail.com
       2)https://www.linkedin.com/in/shreyashtalole
