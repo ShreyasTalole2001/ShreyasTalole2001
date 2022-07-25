@@ -1,3 +1,5 @@
+![Web Development](https://user-images.githubusercontent.com/70850103/180774878-132cf859-4143-4bb4-bcee-61e6f51cb0d0.png)
+
 <h1 align="center">Hi 👋, I'm Shreyash Talole</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
